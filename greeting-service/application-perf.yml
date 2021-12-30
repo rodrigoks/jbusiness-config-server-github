@@ -8,5 +8,5 @@ spring:
 #        include:
 #        - '*'
 greetingservice:
-  greeting: "Olá"
+  greeting: "Hy"
   default-value: "Mundo! (PERF)"
