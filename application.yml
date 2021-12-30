@@ -9,4 +9,4 @@ spring:
 #        - '*'
 greetingservice:
   greeting: "Olá"
-  default-value: "Mundo (DEV)!"
+  default-value: "Mundo (DEFAULT)!"
